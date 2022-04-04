@@ -1,0 +1,10 @@
+C:\Users\FatecSdP-TI\source\repos\eazyDiary\bin\Debug\eazyDiary.exe.config
+C:\Users\FatecSdP-TI\source\repos\eazyDiary\bin\Debug\eazyDiary.exe
+C:\Users\FatecSdP-TI\source\repos\eazyDiary\bin\Debug\eazyDiary.pdb
+C:\Users\FatecSdP-TI\source\repos\eazyDiary\obj\Debug\eazyDiary.csproj.AssemblyReference.cache
+C:\Users\FatecSdP-TI\source\repos\eazyDiary\obj\Debug\eazyDiary.Form1.resources
+C:\Users\FatecSdP-TI\source\repos\eazyDiary\obj\Debug\eazyDiary.Properties.Resources.resources
+C:\Users\FatecSdP-TI\source\repos\eazyDiary\obj\Debug\eazyDiary.csproj.GenerateResource.cache
+C:\Users\FatecSdP-TI\source\repos\eazyDiary\obj\Debug\eazyDiary.csproj.CoreCompileInputs.cache
+C:\Users\FatecSdP-TI\source\repos\eazyDiary\obj\Debug\eazyDiary.exe
+C:\Users\FatecSdP-TI\source\repos\eazyDiary\obj\Debug\eazyDiary.pdb
