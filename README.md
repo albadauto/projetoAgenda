@@ -20,6 +20,8 @@
     <li>Incremento -> é uma informação extra sobre sua tarefa, pode ser ou nome de uma instituição, ou da empresa que você trabalha! </li>
     <li>Data de inicio -> Data de começo da tarefa, é imutavel! </li>
     <li>Data de fim -> Data final da tarefa </li>
+    <li>Descrição -> Irão ser os detalhes da tarefa </li>
+    
 </div>
  
   <h2> É SIMPLES, NÉ? </h2>
